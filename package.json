@@ -1,9 +1,10 @@
 {
 
-  "name": "robb",
+  "name": "robb-clone",
   "description": "Simple type checker in JavaScript.",
   "version": "0.2.2",
   "author": "František Hába <hello@frantisekhaba.com>",
+  "contributors" : [ "Pawel Veselov <pawel.veselov@gmail.com>"],
 
   "devDependencies": {
     "nodeunit": "0.6.4"
@@ -58,17 +59,17 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/Baggz/Robb.git"
+    "url": "git@github.com:veselov/Robb.git"
   },
 
-  "homepage": "https://github.com/Baggz/Robb",
+  "homepage": "https://github.com/veselov/Robb",
 
   "engines": {
     "node": ">= 0.3.0"
   },
 
   "bugs": {
-    "url": "https://github.com/Baggz/Robb/issues",
+    "url": "https://github.com/veselov/Robb/issues",
     "email": "hello@frantisekhaba.com"
   },
 
